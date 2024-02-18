@@ -1,0 +1,84 @@
+C:\Users\user\source\repos\home1\bin\Debug\home1.exe.config
+C:\Users\user\source\repos\home1\bin\Debug\home1.exe
+C:\Users\user\source\repos\home1\bin\Debug\home1.pdb
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.Properties.Resources.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.exe
+C:\Users\user\source\repos\home1\obj\Debug\home1.pdb
+C:\Users\user\source\repos\home1\obj\Debug\home1.home1.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.join.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.book.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.home.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\home1.exe.config
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\home1.exe
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\home1.pdb
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.csproj.AssemblyReference.cache
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.csproj.SuggestedBindingRedirects.cache
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.book.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.home.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.home1.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.join.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.Properties.Resources.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.csproj.GenerateResource.cache
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.csproj.CoreCompileInputs.cache
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.exe
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.pdb
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.Book_Medicine.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.Examination_Reservation.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.forget.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.login.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.register.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.Chatting.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.contactUsscs.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.DoctorReport.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\MaterialSkin.dll
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\TestStack.BDDfy.dll
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.Admin.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.doctor.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.Lab.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.Patient.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.pharmacist.resources
+D:\Faculty\Third Level\1st semester\Visual Programming\DocHouse\DocHouse-main\obj\Debug\home1.csproj.CopyComplete
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\home1.exe.config
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\home1.exe
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\home1.pdb
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\MaterialSkin.dll
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\TestStack.BDDfy.dll
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.Admin.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.Book_Medicine.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.book.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.Chatting.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.contactUsscs.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.doctor.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.DoctorReport.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.Examination_Reservation.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.forget.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.home.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.home1.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.join.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.Lab.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.login.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.Patient.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.pharmacist.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.Properties.Resources.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.register.resources
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.csproj.CopyComplete
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.exe
+C:\Users\user\Downloads\My-Github\DocHouse_Desktop\obj\Debug\home1.pdb
